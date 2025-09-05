@@ -5,8 +5,15 @@
       "default": true
     }
   ],
+<<<<<<< HEAD
   "name": "ApexPlayground",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "64.0"
+=======
+  "name": "ApexFun",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "62.0"
+>>>>>>> 722e7156d0670dae815aeec4c44c20ae9d29f2ca
 }
